@@ -1,0 +1,13 @@
+C:\Users\bober\source\repos\Tutorial\Tutorial\bin\Debug\netcoreapp3.1\Tutorial.exe
+C:\Users\bober\source\repos\Tutorial\Tutorial\bin\Debug\netcoreapp3.1\Tutorial.deps.json
+C:\Users\bober\source\repos\Tutorial\Tutorial\bin\Debug\netcoreapp3.1\Tutorial.runtimeconfig.json
+C:\Users\bober\source\repos\Tutorial\Tutorial\bin\Debug\netcoreapp3.1\Tutorial.runtimeconfig.dev.json
+C:\Users\bober\source\repos\Tutorial\Tutorial\bin\Debug\netcoreapp3.1\Tutorial.dll
+C:\Users\bober\source\repos\Tutorial\Tutorial\bin\Debug\netcoreapp3.1\Tutorial.pdb
+C:\Users\bober\source\repos\Tutorial\Tutorial\obj\Debug\netcoreapp3.1\Tutorial.csprojAssemblyReference.cache
+C:\Users\bober\source\repos\Tutorial\Tutorial\obj\Debug\netcoreapp3.1\Tutorial.AssemblyInfoInputs.cache
+C:\Users\bober\source\repos\Tutorial\Tutorial\obj\Debug\netcoreapp3.1\Tutorial.AssemblyInfo.cs
+C:\Users\bober\source\repos\Tutorial\Tutorial\obj\Debug\netcoreapp3.1\Tutorial.csproj.CoreCompileInputs.cache
+C:\Users\bober\source\repos\Tutorial\Tutorial\obj\Debug\netcoreapp3.1\Tutorial.dll
+C:\Users\bober\source\repos\Tutorial\Tutorial\obj\Debug\netcoreapp3.1\Tutorial.pdb
+C:\Users\bober\source\repos\Tutorial\Tutorial\obj\Debug\netcoreapp3.1\Tutorial.genruntimeconfig.cache
